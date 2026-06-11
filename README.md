@@ -64,20 +64,15 @@ Logo proje klasöründe SVG olarak yüklü
 - [Quattrocento](https://fonts.google.com/specimen/Quattrocento)
 - [Satisfy](https://fonts.google.com/specimen/Satisfy)
 
-**Önemli Notlar:**
+## 🚀 Kullanılan Teknolojiler
 
-- Bu projede JavaScript kullanmayacaksınız. Form işlevsel olmayacak, sadece statik olarak geliştirilecek.
-- Figma tasarımına sadık kalarak mobil ve masaüstü ekranlarda, düzgün dengeli bir görünüm sağlamayı hedefleyin.
-- HTML yapınızın anlamsal (semantic) olmasına özen gösterin.
-- CSS'te class isimlendirmesi ve kod düzenine dikkat edin.
+- **HTML5**
+  - Sayfa yapısı ve semantik (semantic) etiketler
 
-**Kaynaklar:**
+- **CSS3**
+  - CSS Custom Properties (Değişkenler)
+  - Flexbox
+  - CSS Grid
+  - Responsive Design (Media Queries)
 
-- **Figma Tasarımı:** ([S6 Pizza v2.1 Mobil](https://www.figma.com/design/B6rGWNjWqVyvuB9htLyIMR/S6-Challange-v2.1?node-id=0-1&t=FwsCbqkh8NWchoPX-1))
-- **CSS içerisinde değişken tanımlayıp, yeniden kullanabilmek:** [CSS Custom Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
 
-## Sorularınız mı Var?
-
-Eğer herhangi bir sorunla karşılaşırsanız, lütfen eğitmeninize başvurun.
-
-İyi eğlenceler ve kodlamalar! 🍕
